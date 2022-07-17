@@ -174,4 +174,4 @@ You can find more examples of how to use this module [here](./examples/).
 
 ## Questions or issues ?
 
-**Contact me on discord: ``Big watermelon#6705`**
+**Contact me on discord: `Big watermelon#6705`**
