@@ -1,0 +1,14 @@
+{
+    "say-hello-to": {
+        "description": "say hello to someone !",
+        "args": ["name"],
+        "return": "hello <name> !"
+    },
+    "multiply": {
+        "args": [
+            {"name": "a", "type": "int"},
+            {"name": "b", "type": "int"}
+        ],
+        "return": "<a> * <b>"
+    }
+}

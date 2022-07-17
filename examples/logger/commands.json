@@ -1,0 +1,19 @@
+{
+    "log": {
+        "args": [
+            {"name": "user", "repr": true},
+            {"name": "password", "type": "int", "default": "0000"}
+        ],
+        "return": "logger.logging(<user>, <password>)"
+    },
+    "disconnect": {
+        "return": "logger.disconnect()"
+    },
+    "admin-command": {
+        "args": ["something"],
+        "return": "logger.interact(<something>)"
+    },
+    "leave": {
+        "return": "self.call(['d'])"
+    }
+}

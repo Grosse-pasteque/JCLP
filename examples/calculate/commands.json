@@ -1,0 +1,9 @@
+{
+    "calc": {
+        "args": ["operation"],
+        "return": "calc.calc(<operation>)"
+    },
+    "history": {
+        "return": "calc.history()"
+    }
+}
